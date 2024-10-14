@@ -1,4 +1,4 @@
-# final_year_project
+# FYP - Battery Management System for Low Earth Orbit Satellites
 You can run the code in Arduino IDE. 
 Constant Current Constant Voltage algorithm is used to increase lithium ion battery effeciency.
 Modified Incremental Conductance Algorithm is a Maximum Power Point Tracking Algorithm used to extract maximum power from sunlight.
